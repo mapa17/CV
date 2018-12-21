@@ -1,2 +1,2 @@
 # Curriculum Vitae
-CV written in [draw.io](draw.io)
+Current and former CV.
